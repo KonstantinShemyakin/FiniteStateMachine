@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Projects/FiniteStateMachine/FiniteStateMachine/Content/man.png</File>
+    <File>C:/Projects/FiniteStateMachine/FiniteStateMachine/Content/menu.jpg</File>
+    <File>C:/Projects/FiniteStateMachine/FiniteStateMachine/Content/next.png</File>
+    <File>C:/Projects/FiniteStateMachine/FiniteStateMachine/Content/prev.png</File>
+    <File>C:/Projects/FiniteStateMachine/FiniteStateMachine/Content/price.png</File>
+    <File>C:/Projects/FiniteStateMachine/FiniteStateMachine/Content/restaurant.jpg</File>
+    <File>C:/Projects/FiniteStateMachine/FiniteStateMachine/Content/salad-image.png</File>
+    <File>C:/Projects/FiniteStateMachine/FiniteStateMachine/Content/table.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
